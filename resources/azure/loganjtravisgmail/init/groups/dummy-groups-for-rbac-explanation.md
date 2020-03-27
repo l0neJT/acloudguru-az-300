@@ -16,3 +16,6 @@ To create intial Azure Active Directory groups for role-based access testing. Mi
         * solutions-architect@loganjtravisgmail.onmicrosoft.com
         * billing-administrator@loganjtravisgmail.onmicrosoft.com
         * support-specialist@loganjtravisgmail.onmicrosoft.com
+    * Subscription Roles:
+        * Pay-As-You-Go (default subscription):
+            * Reader
