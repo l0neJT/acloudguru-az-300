@@ -7,8 +7,12 @@ loganjtravis@gmail.com (Logan J Travis)
 
 To create intial Azure Active Directory groups for role-based access testing. Mimics ideal organization.
 
-### Manually Created Groups
+### Groups
 
 * Name: dept-it
     * Desription: Information Technology Department
-    * Initial Members: *[See ..\users\dummy-users-for-rbac.csv](..\users\dummy-users-for-rbac.csv)*
+    * Initial Members:
+        * loganjtravis@gmail.com
+        * solutions-architect@loganjtravisgmail.onmicrosoft.com
+        * billing-administrator@loganjtravisgmail.onmicrosoft.com
+        * support-specialist@loganjtravisgmail.onmicrosoft.com
