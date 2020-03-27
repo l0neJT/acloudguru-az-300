@@ -1,5 +1,5 @@
 ﻿version:v1.0
 Name (example: Chris Green) [displayName] *,User name (example: chris@contoso.com) [userPrincipalName] *,Initial password [passwordProfile] *,Block sign in (Yes/No) [accountEnabled] *,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
-Solutions Architect,solutions-architect@loganjtravisgmail.onmicrosoft.com,2ebhm4Iry2ja88buIN7s,Yes,,,Solutions Architect,Information Technology,,,,,,,,,
-Billing Administrator,billing-administrator@loganjtravisgmail.onmicrosoft.com,SjIIM9j5rx9wAVUmjuij,Yes,,,Billing Administrator,Information Technology,,,,,,,,,
-Support Specialist,support-specialist@loganjtravisgmail.onmicrosoft.com,xg889rsMW5EXDWAcAgNv,Yes,,,Support Specialist,Information Technology,,,,,,,,,
+Solutions Architect,solutions-architect@loganjtravisgmail.onmicrosoft.com,2ebhm4Iry2ja88buIN7s,No,,,Solutions Architect,Information Technology,United States,,,,,,,,
+Billing Administrator,billing-administrator@loganjtravisgmail.onmicrosoft.com,SjIIM9j5rx9wAVUmjuij,No,,,Billing Administrator,Information Technology,United States,,,,,,,,
+Support Specialist,support-specialist@loganjtravisgmail.onmicrosoft.com,xg889rsMW5EXDWAcAgNv,No,,,Support Specialist,Information Technology,United States,,,,,,,,
